@@ -54,6 +54,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
+https://github.com/user-attachments/assets/d8ac75f4-4a99-4faa-bace-25deef293760
+
+
+
 ## 📊 Future Enhancements
 - Expand **NER models** to support multiple languages
 - Integrate **real-time clinical data processing**
